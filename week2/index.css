@@ -46,6 +46,12 @@ header {
     display: inline-block;
 }
 
+#todo-list .todo-item .todo-content.completed {
+    text-decoration: line-through;
+    color: gray;
+    font-style: italic;
+}
+
 footer {
     text-align: center;
     font-size: 10px;
