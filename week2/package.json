@@ -1,0 +1,7 @@
+{
+  "name": "week1",
+  "author": "JJ",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
